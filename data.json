@@ -1,14 +1,7 @@
 [
-
-{
-    "name":"husain zaidi",
-    "qual": "b.tech",
-    "city": "moradabad"
-},
-{
-    "name":"zaidi",
-    "qual": "b.tec",
-    "city": "moadabd"
-}
-
+    {
+        "TIME":"13:123",
+        "DAY":"TUESDAY",
+        "paragraph":"graphic or web designs. The passage is attributed to an unknown .."
+    }
 ]
